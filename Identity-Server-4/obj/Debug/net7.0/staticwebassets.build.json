@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cP94wQSiHQAl2XQm9NitzRyN4vkbNz3B64TClBhBOrw=",
+  "Source": "Identity-Server-4",
+  "BasePath": "_content/Identity-Server-4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
